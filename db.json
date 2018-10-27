@@ -1,0 +1,31 @@
+{
+  "users": [{
+    "id": 0,
+    "name": "Gonzalo Pozzo",
+    "email": "gonzalo.pozzo4@gmail.com",
+    "password": "admin",
+    "university": "UBA",
+    "career": "Diseño gráfico",
+    "avatar": "//placehold.it/256/256"
+  }],
+  "universities": [{
+    "id": "UBA",
+    "classes": ["Historia del arte", "Ilustración 1"]
+  }],
+  "groups": [{
+    "id": 0,
+    "owner": 0,
+    "description": "",
+    "title": "Parcial 3/11 Marroni",
+    "datetime": "01/01/2018 00:00",
+    "university": "UBA",
+    "class": "Historia del arte",
+    "professor": "Marroni",
+    "limit": 5,
+    "participants": [0],
+    "location": {
+      "lat": 0,
+      "lng": 0
+    }
+  }]
+}
